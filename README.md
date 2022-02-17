@@ -1,1 +1,1 @@
-# SnowBoarder
+A snowboard game, Thomas McGuire.
